@@ -1,2 +1,1 @@
-# solid-broccoli
-team project
+# solid-broccoli\
